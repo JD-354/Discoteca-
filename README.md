@@ -65,9 +65,9 @@ cursor: pointer; transition: transform 0.2s;
 <div id="timer-display" class="inactive-warning"></div>
 <div id="final-results" class="final-results"></div>
 
-<div class="audio-controls">
+    <div class="audio-controls">
     <audio id="#FF6B6B" controls>
-        <source src="./flauta.mpeg" type="audio/mpeg">
+        <source src="https://youtube.com/shorts/bZQbWnZrwRc?si=t6Gj-eDPCrUn-z9O" type="audio/mpeg">
     </audio>
     <audio id="#4ECDC4" controls>
         <source src="./lectro.mpeg" type="audio/mpeg">
